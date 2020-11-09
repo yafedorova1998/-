@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T13:23:54.653Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186 (Edition Yx)" version="13.8.8" etag="JqECflMJk2IwLYEzyVq2" type="github"><diagram id="ODdyHX95hP1w56QJzI1o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-09T13:29:40.430Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186 (Edition Yx)" etag="T-57XNelczcS7RuITcUw" version="13.8.8" type="github">
+  <diagram id="ODdyHX95hP1w56QJzI1o" name="Page-1">
+    <mxGraphModel dx="998" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-2" value="Разработка методики расчета&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="152.5" width="123.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-3" value="Компьютер" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="179.5" as="sourcePoint" />
+            <mxPoint x="170" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-5" value="Подписанное положение об эффективном контракте" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-6" value="Приказ Минтруда №167" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="279.5" as="sourcePoint" />
+            <mxPoint x="590" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-10" value="Утверждение методики расчета показателей ЭК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-11" value="Сотрудник" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-13" value="Руководитель организации" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-16" value="Утверждение методики расчета приказом руководителя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="265" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289.5" y="100" as="sourcePoint" />
+            <mxPoint x="289.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205.75" y="100" as="sourcePoint" />
+            <mxPoint x="205.75" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4wqvCYKfUUuXzGsayB7z-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="180" as="sourcePoint" />
+            <mxPoint x="370" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="180" />
+              <mxPoint x="350" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wqvCYKfUUuXzGsayB7z-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.5" y="380" as="sourcePoint" />
+            <mxPoint x="469.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
