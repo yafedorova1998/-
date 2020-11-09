@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T13:15:05.664Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186 (Edition Yx)" version="13.8.8" etag="iRsOFx3EEeZ8yPkh6aRg" type="github"><diagram id="fcvStGzuVO2apcx9kuQm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-09T13:29:46.962Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186 (Edition Yx)" etag="VUTeyMHdbDx9wQENpL_d" version="13.8.8" type="github">
+  <diagram id="fcvStGzuVO2apcx9kuQm" name="Page-1">
+    <mxGraphModel dx="998" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8YMXuD0PcihgbSUsud45-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="225" width="194" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-2" value="Разработка методики расчета показателей эффективного контракта" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="235" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-3" value="Компьютер" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="259.5" as="sourcePoint" />
+            <mxPoint x="310" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-5" value="Подписанное положение об эффективном контракте" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-6" value="Приказ Минтруда №167" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.5" y="185" as="sourcePoint" />
+            <mxPoint x="469.5" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369.5" y="185" as="sourcePoint" />
+            <mxPoint x="369.5" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="259.5" as="sourcePoint" />
+            <mxPoint x="590" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-11" value="Утверждение методики расчета показателей ЭК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-12" value="Сотрудник" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369.5" y="350" as="sourcePoint" />
+            <mxPoint x="369.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-14" value="Руководитель организации" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8YMXuD0PcihgbSUsud45-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.5" y="350" as="sourcePoint" />
+            <mxPoint x="459.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
